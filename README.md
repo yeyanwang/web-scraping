@@ -1,5 +1,10 @@
 # web-scraping
 
+Automated browsing was enabled by *Splinter* and *WebDriver Manager*. *BeautifulSoup* objects were created to extract HTML code for both Jupyter Notebooks. 
+`part_1_mars_news.ipynb` scrapes Mars news from web and stores the information in a list of Python dictionaries. 
+`part_2_mars_weather.ipynb` scrapes Mars temperature/weather information from the web and stores the information into a Pandas DataFrame.
+`mars_temperature_data.csv` is the output csv file for the Pandas DataFrame with Mars temperature/weather information from part 2. 
+
 ### Part 1: Scrape Titles and Preview Text from Mars News
 - Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). 
 - The titles and preview text of the news articles were scraped and extracted, and stored in a list of dictionaries. 
