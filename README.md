@@ -27,25 +27,25 @@ Automated browsing was enabled by **Splinter** and **WebDriver Manager**. **Beau
   |... |... |...|... |... |... |... |
   
 - The dataset was analyzed using Pandas functions:to answer the following questions:
-  1. How many months exist on Mars?
+ 1. How many months exist on Mars?
     **12**
-  2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+ 2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
     **1867**
-  3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? Plot the average temperature by month.
+ 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? Plot the average temperature by month.
   
   ![image](https://user-images.githubusercontent.com/120543690/222339136-3e886efb-6077-4eed-a6f3-14fe0d6fcfec.png)
   
   **The coldest month in Curiosity's location is month 3.
   The hottest month in Curiosity's location is month 8.**
   
-  4. Which months have the lowest and the highest atmospheric pressure on Mars? Plot the results as a bar chart.
+ 4. Which months have the lowest and the highest atmospheric pressure on Mars? Plot the results as a bar chart.
   
   ![image](https://user-images.githubusercontent.com/120543690/222339209-7b023b3d-31a8-474a-a127-b4256937f295.png)
 
   **The month with the lowest atmospheric pressure is month 6.
   The month with the highest atmospheric pressure is month 9.**
   
-  5. About how many terrestrial (Earth) days exist in a Martian year? Visually estimate the result by plotting the daily minimum temperature.
+ 5. About how many terrestrial (Earth) days exist in a Martian year? Visually estimate the result by plotting the daily minimum temperature.
   
   ![image](https://user-images.githubusercontent.com/120543690/222338810-25e40d57-8493-4fe3-9605-9e93afee8a2e.png)
   
