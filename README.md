@@ -1,4 +1,4 @@
-# web-scraping
+# Mars Scraping
 
 Automated browsing was enabled by **Splinter** and **WebDriver Manager**. **BeautifulSoup** objects were created to extract HTML code for both Jupyter Notebooks. 
 `part_1_mars_news.ipynb` scrapes Mars news from web and stores the information in a list of Python dictionaries. 
